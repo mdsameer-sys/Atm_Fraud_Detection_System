@@ -70,7 +70,6 @@ best threshold per model
 -   Detects \~88% of fraud cases
 -   High precision for extremely imbalanced data
 -   Strong balance between fraud detection and investigation workload
--   Minimal overfitting observed
 
 ------------------------------------------------------------------------
 
